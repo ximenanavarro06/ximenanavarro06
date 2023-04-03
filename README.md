@@ -1,7 +1,6 @@
 ### Hi, I'm Ximena!👋🏻🌸👩🏼‍💻
 
-![Alt text](template%20(1).gif)
-
+![Alt text](template%20(2).gif)
 <!--
 **ximenanavarro06/ximenanavarro06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
