@@ -1,55 +1,22 @@
 ### Hi, I'm Ximena!👋🏻🌸👩🏼‍💻
 
 ![Alt text](template%20(2).gif)
-<!--
-**ximenanavarro06/ximenanavarro06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 
+🌄 I am Located in Denver, CO. 🌄
+🤖 I am excited to travel the world and explore different Sofware Development opportunities
+such as non-profit programming projects to exploring Artificial Intelligence! 🤖
 
-Phase 5 capstone final project
+👩🏼‍🎓 I graduated with a Software Develpoment certificate from Flatiron School
+specializing in full-stack web development using Javascript, React, Ruby, and Ruby on Rails. 👩🏼‍🎓
 
-name: Ximena Navarro
-located_in: Denver, CO
-education:
-    - ["Software Engineering Bootcamp Certificate from Flatiron School"]
-    - ["High School Diploma from Riverdale Ridge High School"]
-past_experiences:
-    - ["LifeTime Fitness Cafe Team Member"]
-    - ["Home Depot Cashier"]
-    - [""]
-fields_of_interests:
-techical_background:
-currently_learning: ["Python3", "Flask"]
-will_learn: ["Java", "Full-stack Ruby on Rails", "Full-stack Python"]
-hobbies: ["Writing short stories", "Weightlifting", "Running", "Playing with my putbull"]
+👩🏼‍💻 I am currently learning Python3 and Flask. 👩🏼‍💻
 
-Time Spent:
+🙌🏻 I will learn Java, Full-stack Ruby on Rails, and Full-stack Python. 🙌🏻
 
-Programming Languages:
+🧠 I am interested in programming Artificial Intelligence and understanding
+how to relate the human brain to the brain of a computer in order to help mental health issues. 🧠
 
-Python              1 hr 0 min
-Flask               1 hr 0 min
-CSS                 1 hr 0 min
+👋🏻 In my free time I enjoy writing short stories ✍🏻, weightlifting 🏋🏼, running 🏃🏼‍♀️, and playing with my pitbull 🐾
 
-Projects:
-
-python_website      1 hr 0 min
-
-
-Total Time: 1,131 hrs 1 min
-
-Pyhton              314 hrs 18 mins
-
-
+📧 I can be reached at xnavarro999@gmail.com. 📧
