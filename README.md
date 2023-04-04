@@ -4,6 +4,7 @@
 
 
 🌄 I am Located in Denver, CO. 🌄
+
 🤖 I am excited to travel the world and explore different Sofware Development opportunities
 such as non-profit programming projects to exploring Artificial Intelligence! 🤖
 
