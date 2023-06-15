@@ -13,6 +13,8 @@ specializing in full-stack web development using Javascript, React, Ruby, and Ru
 
 👩🏼‍💻 I am currently learning Python3 and Flask. 👩🏼‍💻
 
+📒 Undergraduate pursuing a BS in Cybersecurity and Information Assurance 📒
+
 🙌🏻 I will learn Java, Full-stack Ruby on Rails, and Full-stack Python. 🙌🏻
 
 🧠 I am interested in programming Artificial Intelligence and understanding
